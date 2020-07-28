@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/prueba_fondo_app"
+
+
+    >
+
+
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bt_vibrate"
+        android:onClick="tapToAnimate"
+        android:background="@drawable/icono_nada"
+        android:layout_marginTop="355dp"
+        android:layout_marginLeft="15dp"
+
+
+
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bt_vibrate2"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="145dp"
+        android:onClick="tapToAnimate"
+        android:background="@drawable/icono_love"
+
+
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bt_vibrate3"
+        android:onClick="tapToAnimate"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="239dp"
+        android:background="@drawable/icono_1"
+
+        />
+
+
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bt_vibrate4"
+        android:onClick="tapToAnimate"
+        android:background="@drawable/icono_anteojos"
+        android:layout_marginTop="345dp"
+        android:layout_marginLeft="132dp"
+
+
+
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bt_vibrate5"
+        android:onClick="tapToAnimate"
+        android:layout_marginLeft="127dp"
+        android:layout_marginTop="145dp"
+        android:background="@drawable/icono_devil"
+
+
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bt_vibrate6"
+        android:onClick="tapToAnimate"
+        android:layout_marginLeft="125dp"
+        android:layout_marginTop="248dp"
+        android:background="@drawable/icono_sleep"
+
+        />
+
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bt_vibrate7"
+        android:onClick="tapToAnimate"
+        android:background="@drawable/icono_kiss"
+        android:layout_marginTop="352dp"
+        android:layout_marginLeft="247dp"
+
+
+
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bt_vibrate8"
+        android:onClick="tapToAnimate"
+        android:layout_marginLeft="255dp"
+        android:layout_marginTop="145dp"
+        android:background="@drawable/icono_cry"
+
+
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bt_vibrate9"
+        android:onClick="tapToAnimate"
+        android:layout_marginLeft="248dp"
+        android:layout_marginTop="245dp"
+        android:background="@drawable/icono_xd"
+
+        />
+</RelativeLayout>
